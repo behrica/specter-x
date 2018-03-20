@@ -1,6 +1,6 @@
 # specter-x
 
-A Clojure library designed to extend specter to support data structures.
+A Clojure library designed to extend specter to support exploration of data structures.
 
 
 ## Usage
