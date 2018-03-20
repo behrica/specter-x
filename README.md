@@ -5,7 +5,7 @@ A Clojure library designed to extend specter to support data structures.
 
 ## Usage
 
-The specter <https://github.com/nathanmarz/specter> library has very nice support for extracting pieces of arbritary complex clojure data structures.
+The specter <https://github.com/nathanmarz/specter> library has very nice support for extracting pieces of arbitrary complex Clojure data structures.
 
 This library extends it by macros and functions to support the **_exploration_**  of such data structures.
 
