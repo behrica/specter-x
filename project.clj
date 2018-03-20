@@ -1,4 +1,4 @@
-(defproject behrica/specter-x "0.1.1"
+(defproject behrica/specter-x "0.1.2-SNAPSHOT"
   :description "Extensions to specter to explore data structures"
   :url "http://example.com/FIXME"
   :lein-release {:deploy-via :clojars}
